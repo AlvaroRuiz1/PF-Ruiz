@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;1,100&display=swap');
+
+
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+
+}
+@font-face {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    src: url(../font/Roboto-Black.ttf);
+}
+
+
+
+
+.header-color{ background-color: rgb(42, 165, 165);
+   
+}
+
+h1{background-color: rgb(86, 161, 163);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 400;
+    text-align: center;
+
+}
+
+
+ul{list-style-type: underl;
+
+}
+
+
+
+
+
+
+.nav-list {text-align: center ;
+}
+.nav-list li{
+    margin: 40px;
+    display: inline-block;
+    font-family: 'Roboto';
+    font-size: 20px;
+    margin: 30px;
+}
+ 
+.caja {
+    
+    display: block;
+    width: 100%;
+    }
+    .caja a{
+        display: block;
+        margin: 0 auto;
+
+        width: fit-content;
+        height: fit-content;
+    }
+    .caja img{
+        display: block;
+        
+        
+    }
+ 
+.insta{
+    width: 100%;
+}
+.insta a{
+    display: block;
+ width: 100%;
+  text-align: center;
+margin: 0 auto;
+}
+
+
+/** main **/
+
+.productos li{
+    text-align: center;
+    display: inline;
+}
+
+.alcance li{
+    text-align: center;
+}
+
+p{
+    font: size 35px;;
+    color: rgb(0, 0, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.main{ background-color: rgb(160, 89, 64);}
+
+
+.nav-link {
+    color: rgb(12, 0, 1);
+
+}
+
+
+.contacto1 {
+    text-align: center;
+    width: 100%;
+}
+
+.tamaño {
+    font-size: 40px;
+}
+
+.footer1
+{
+    text-align: center;
+}
+
+.foto4 {
+  
+    width: 100%;
+}
+.foto4 img {
+    display: block;
+    margin: 0 auto;
+}
+
+
+.titulo {
+    text-decoration: none;
+    color: black;
+}
+
